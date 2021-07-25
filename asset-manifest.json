@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie_app_moon/static/css/main.ff7b5f2c.chunk.css",
+    "main.js": "/movie_app_moon/static/js/main.8763e129.chunk.js",
+    "main.js.map": "/movie_app_moon/static/js/main.8763e129.chunk.js.map",
+    "runtime-main.js": "/movie_app_moon/static/js/runtime-main.bdc63eeb.js",
+    "runtime-main.js.map": "/movie_app_moon/static/js/runtime-main.bdc63eeb.js.map",
+    "static/js/2.f6ed65b5.chunk.js": "/movie_app_moon/static/js/2.f6ed65b5.chunk.js",
+    "static/js/2.f6ed65b5.chunk.js.map": "/movie_app_moon/static/js/2.f6ed65b5.chunk.js.map",
+    "index.html": "/movie_app_moon/index.html",
+    "static/css/main.ff7b5f2c.chunk.css.map": "/movie_app_moon/static/css/main.ff7b5f2c.chunk.css.map",
+    "static/js/2.f6ed65b5.chunk.js.LICENSE.txt": "/movie_app_moon/static/js/2.f6ed65b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdc63eeb.js",
+    "static/js/2.f6ed65b5.chunk.js",
+    "static/css/main.ff7b5f2c.chunk.css",
+    "static/js/main.8763e129.chunk.js"
+  ]
+}
